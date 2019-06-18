@@ -1,0 +1,5 @@
+命令行是mybatis-generator:generate -e
+在IntelliJ IDEA中的操作步骤如下：
+首先选择Run->Edit Configurations..
+然后点击左上角的“+”号，选择Maven
+最后在Working directory中填入你项目的根目录，然后在下面的Command line中填入mybatis-generator:generate -e。点击OK即可
