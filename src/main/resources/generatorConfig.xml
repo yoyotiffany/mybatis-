@@ -41,9 +41,6 @@
         </javaClientGenerator>
 
         <!-- 要生成哪些表 -->
-        <table tableName="user" domainObjectName="user"
-               enableCountByExample="false" enableUpdateByExample="false"
-               enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false"></table>
+        <table tableName="user" ></table>
     </context>
 </generatorConfiguration>
